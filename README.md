@@ -1,4 +1,4 @@
-# Mdtable
+# MDTable
 
 convert 2D array to markdown table
 
