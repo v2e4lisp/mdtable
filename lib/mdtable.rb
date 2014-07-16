@@ -1,6 +1,6 @@
 class MDTable
 
-  VERSION = '0.0.1'
+  VERSION = '0.0.2'
 
   # convert 2D array to md table array
   #
